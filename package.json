@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --base=/webhook-date-emplacement/ --outDir=docs",
+    "build": "tsc && vite build --outDir=docs",
     "preview": "vite preview"
   },
   "devDependencies": {
